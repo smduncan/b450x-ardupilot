@@ -2,7 +2,7 @@
 Just some settings and things for when I fitted Pixhawk to my old Blade 450X helicopter
 
 ## Disclaimer ##
-Use these settings at your own risk.  All helis are different.  I'm no expert in Ardupilot.  These are the settings that work for me, they may not be entirely correctly set up.
+Use these settings at your own risk.  All helis are different.  I'm no expert in Ardupilot.  This is what worked for me, it might not be correctly configured.  It is just what my heli and I are comfortable with!
 
 ## What's here ##
 
