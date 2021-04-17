@@ -1,5 +1,5 @@
 *   I was stuck getting the motor to work for ages.  I didn't know what "motor interlock" means.
-    It turns out it means Throttle Hold.  Simply assign Th Hold sw to Ch8 if your 	TX supports it.
+    It turns out it means Throttle Hold.  Simply assign Th Hold sw to Ch8 if your TX supports it.
 
 *   When setting (mechanically) your swash, try to make it so that everything is 0deg (including collective) when your TX is 
     1500PWM on all sticks.  Most default params seem to expect this to be true. It saves a lot of configuring if this is
@@ -8,4 +8,4 @@
 *   On selecting LAND mode, if your heli refuses to land and climbs, or the motor quits, check H_COL_MID - It turns out to be 
     a very important param.
 
-
+Other than that it's pretty easy.
