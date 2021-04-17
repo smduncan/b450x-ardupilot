@@ -8,4 +8,4 @@
 *   On selecting LAND mode, if your heli refuses to land and climbs, or the motor quits, check H_COL_MID - It turns out to be 
     a very important param.
 
-Other than that it's pretty easy.
+Other than that it's pretty easy.  :)
