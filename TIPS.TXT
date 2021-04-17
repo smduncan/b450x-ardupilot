@@ -5,7 +5,7 @@
     1500PWM on all sticks.  Most default params seem to expect this to be true. It saves a lot of configuring if this is
     correct.
 
-*	On selecting LAND mode, if your heli refuses to land and climbs, or the motor quits, check H_COL_MID - It turns out to be 
+*   On selecting LAND mode, if your heli refuses to land and climbs, or the motor quits, check H_COL_MID - It turns out to be 
     a very important param.
 
 
