@@ -7,5 +7,6 @@ Use these settings at your own risk.  All helis are different.  I'm no expert in
 ## What's here ##
 
 PARAMS.TXT - My Arducopter Parameters file.
+
 PIXMOUNT.DXF - The mounting plates that go between the frame and the skids.  I used earplugs as vibration dampers
 MOUNTING.JPG - How I mounted the pixhawk
